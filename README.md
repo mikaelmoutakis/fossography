@@ -10,8 +10,8 @@ Programs I mention:
 Additional resources:
 
 * [Darktable 3.8 documentation](https://docs.darktable.org/usermanual/3.8/en/)
-* [Bruce Williams tutorials on DarkTable](https://www.youtube.com/channel/UCkqe4BYsllmcxo2dsF-rFQw)
-* [Boris Hajdukovic's more advanced demonstrations of DarkTable](https://www.youtube.com/channel/UCMbDlOwmmQnkRmcb2_5WERg)
+* [Bruce Williams tutorials on darktable](https://www.youtube.com/channel/UCkqe4BYsllmcxo2dsF-rFQw)
+* [Boris Hajdukovic's more advanced demonstrations of darktable](https://www.youtube.com/channel/UCMbDlOwmmQnkRmcb2_5WERg)
 * [Aurélien Pierre's in-depth explanations about how darktable works](https://www.youtube.com/c/AurélienPIERREPhoto)
 
 
