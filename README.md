@@ -6,6 +6,9 @@ Programs I mention:
 * [Darktable](https://www.darktable.org)
 * [RapidPhotoDownloader](http://freshmeat.sourceforge.net/projects/rapid-photo-downloader)
 
+Why darktable shifted from working in Lab colour space to RGB colour space
+
+* [Pixls.us blog](https://pixls.us/articles/darktable-3-rgb-or-lab-which-modules-help/)
 
 Additional resources:
 
